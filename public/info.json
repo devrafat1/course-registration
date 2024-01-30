@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to C Programming",
+      "description": "It's a C programming Course that a student can learn easily and it's a beginner friendly course. You can learn C programming from beginning to advance.",
+
+      "price": 15000,
+      "credit": 1,
+      "image": "https://i.ibb.co/PTncJp8/Rectangle-2-2.png"
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Algorithms",
+      "description": "It's a Algorithm Course that a student can learn easily and it's a beginner friendly course. You can learn Algorithms from beginning to advance level.",
+      "price": 25000,
+      "credit": 2,
+      "image": "https://i.ibb.co/mB82s3F/Rectangle-2-3.png"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to C++ for DSA",
+      "description": "It's a C++ Course that a student can learn easily and it's a beginner friendly course. You can learn C++ for DSA from beginning to advance.",
+      "price": 10000,
+      "credit": 10,
+      "image": "https://i.ibb.co/SJhGZWj/Rectangle-2-4.png"
+    },
+    {
+      "id": 4,
+      "title": "Basic Data Structures",
+      "description": "It's a Data Structure Course that a student can learn easily and it's a beginner friendly course. You can learn Data Structures from beginning to advance.",
+      "price": 35000,
+      "credit": 5,
+      "image": "https://i.ibb.co/KzDKWRm/Rectangle-3.png"
+    },
+    {
+      "id": 5,
+      "title": "Introduction to OOP Python",
+      "description": "It's a Python programming Course that a student can learn easily and it's a beginner friendly course. You can learn Python from beginning to advance.",
+      "price": 19000,
+      "credit": 5,
+      "image": "https://i.ibb.co/jfqGRGC/Rectangle-2.png"
+    },
+    {
+      "id": 6,
+      "title": "Software Engineering",
+      "description": "It's a Software Enginnering Course that a student can learn about how a software Engineer selects a software model for implement.",
+      "price": 23000,
+      "credit": 2,
+      "image": "https://i.ibb.co/0JvXMcG/Rectangle-2-5.png"
+    },
+    {
+      "id": 7,
+      "title": "AWS, Cloud Computing",
+      "description": "It's a Cloud Computing Course that a student can learn easily and it's a beginner friendly course. You can learn AWS from beginning to advance.",
+      "price": 35000,
+      "credit": 5,
+      "image": "https://i.ibb.co/fqt68NT/Rectangle-3-1.png"
+    },
+    {
+      "id": 8,
+      "title": "Database (MySQL)",
+      "description": "It's a MySQL Course that a student can learn easily and it's a beginner friendly course. You can learn Database from beginning to advanced.",
+      "price": 19000,
+      "credit": 5,
+      "image": "https://i.ibb.co/ssvRnBj/Rectangle-2-1.png"
+    },
+    {
+      "id": 9,
+      "title": "Problem-Solving Part",
+      "description": "It's a Problem Solving Course that a student can solve any kind of problems and it's a beginner friendly course. You can learn how to solve problems by thinking",
+      "price": 23000,
+      "credit": 2,
+      "image": "https://i.ibb.co/PWPfGXk/Rectangle-2-6.png"
+    }
+  ]
